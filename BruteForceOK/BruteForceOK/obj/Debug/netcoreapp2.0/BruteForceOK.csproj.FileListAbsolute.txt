@@ -1,0 +1,11 @@
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\bin\Debug\netcoreapp2.0\BruteForceOK.deps.json
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\bin\Debug\netcoreapp2.0\BruteForceOK.runtimeconfig.json
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\bin\Debug\netcoreapp2.0\BruteForceOK.runtimeconfig.dev.json
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\bin\Debug\netcoreapp2.0\BruteForceOK.dll
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\bin\Debug\netcoreapp2.0\BruteForceOK.pdb
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\obj\Debug\netcoreapp2.0\BruteForceOK.csprojResolveAssemblyReference.cache
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\obj\Debug\netcoreapp2.0\BruteForceOK.csproj.CoreCompileInputs.cache
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\obj\Debug\netcoreapp2.0\BruteForceOK.AssemblyInfoInputs.cache
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\obj\Debug\netcoreapp2.0\BruteForceOK.AssemblyInfo.cs
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\obj\Debug\netcoreapp2.0\BruteForceOK.dll
+D:\Users\Tiarek\Desktop\BruteForceOK\BruteForceOK\obj\Debug\netcoreapp2.0\BruteForceOK.pdb
